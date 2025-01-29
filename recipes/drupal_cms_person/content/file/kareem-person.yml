@@ -1,0 +1,28 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 5a635060-8540-4be7-bad9-8a51414731ad
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: unsplash_Leilani_Angel.png
+  uri:
+    -
+      value: 'public://2025-01/unsplash_Leilani_Angel.png'
+      url: /sites/default/files/2025-01/unsplash_Leilani_Angel.png
+  filemime:
+    -
+      value: image/png
+  filesize:
+    -
+      value: 91013
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1736321254
